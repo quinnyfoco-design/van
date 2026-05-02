@@ -1,5 +1,5 @@
 # Van
-van(formely: VimnANo) is a simple code editor with advanced vim-like features.
+Van(formely: VimnANo) is a simple rust code editor with advanced vim-like features.
 
 # installation
 
