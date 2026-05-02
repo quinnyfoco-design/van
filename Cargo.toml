@@ -1,0 +1,15 @@
+[package]
+name = "van"
+version = "0.2.3"
+edition = "2024"
+description = "Van(formely: VimnANo) is a simple rust code editor with advanced vim-like features."
+license = "GPL-3.0 license"
+repository = "https://github.com/quinnyfoco-design/van"
+readme = "README.md"
+keywords = ["editor", "terminal", "ai", "groq", "rust", "lightweight"]
+categories = ["command-line-utilities", "development-tools::editors"]
+
+[dependencies]
+crossterm = "0.29.0"
+serde_json = "1.0"
+reqwest = { version = "0.12", features = ["blocking", "json", "rustls-tls"] }
