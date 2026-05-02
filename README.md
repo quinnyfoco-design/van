@@ -9,7 +9,7 @@ either download it with cargo or compile yourself:
 
 Cargo:
 ```bash
-cargo install van
+cargo install van-editor
 ```
 Compile yourself:
 ```bash
